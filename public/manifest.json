@@ -1,0 +1,12 @@
+{
+  "name": "Ириска",
+  "short_name": "Ириска",
+  "description": "Уютный мессенджер с E2E-шифрованием",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#15110E",
+  "theme_color": "#D99A4E",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
